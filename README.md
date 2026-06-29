@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" alt="Softworica Workflows hero" width="100%" style="border-radius:12px; box-shadow:0 8px 30px rgba(2,6,23,0.6)"/>
+  <img src="assets/banner_hd.png" alt="Softworica Workflows hero" width="100%" style="border-radius:12px; box-shadow:0 8px 30px rgba(2,6,23,0.6)"/>
 </div>
 
 ---
