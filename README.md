@@ -4,23 +4,8 @@
 
 ---
 
-<div style="margin-top:18px; display:flex; gap:16px; flex-wrap:wrap; justify-content:center">
-  <div style="background:#ffffff; border-radius:12px; padding:18px 24px; width:220px; box-shadow:0 6px 18px rgba(2,6,23,0.06); text-align:left">
-    <strong>🏷️ Focus</strong>
-    <p style="margin:6px 0 0; color:#0451a5">Web • Mobile • Cloud</p>
-  </div>
-  <div style="background:#ffffff; border-radius:12px; padding:18px 24px; width:220px; box-shadow:0 6px 18px rgba(2,6,23,0.06); text-align:left">
-    <strong>📦 Repositories</strong>
-    <p style="margin:6px 0 0; color:#0451a5">20+ public</p>
-  </div>
-  <div style="background:#ffffff; border-radius:12px; padding:18px 24px; width:220px; box-shadow:0 6px 18px rgba(2,6,23,0.06); text-align:left">
-    <strong>👥 Contributors</strong>
-    <p style="margin:6px 0 0; color:#0451a5">10+ contributors</p>
-  </div>
-  <div style="background:#ffffff; border-radius:12px; padding:18px 24px; width:220px; box-shadow:0 6px 18px rgba(2,6,23,0.06); text-align:left">
-    <strong>📈 Projects</strong>
-    <p style="margin:6px 0 0; color:#0451a5">30+ active</p>
-  </div>
+<div align="center" style="margin-top:18px">
+  <img src="assets/stats.svg" alt="Softworica Workflows stats" width="100%" style="max-width:1100px; border-radius:12px; box-shadow:0 8px 30px rgba(2,6,23,0.06)"/>
 </div>
 
 ---
