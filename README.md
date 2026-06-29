@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="image.png" alt="Softworica Workflows" width="100%" />
+  <img src="logo.png" alt="Softworica Workflows" width="100%" />
   <br/><br/>
-  <img src="assets/image.png" alt="Softworica logo" width="140" />
+  <img src="logo.png" alt="Softworica logo" width="140" />
   <h1>Softworica Workflows</h1>
   <p><strong>Your Future, Our Framework</strong></p>
   <p>Softworica is the best IT company in Nepal, building powerful web, mobile, cloud, and enterprise solutions for modern businesses.</p>
