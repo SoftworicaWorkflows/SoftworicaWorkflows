@@ -45,7 +45,7 @@
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:12px">
   <div style="background:#fff;padding:16px;border-radius:10px;box-shadow:0 6px 18px rgba(2,6,23,0.04)"><strong>Web Applications</strong><div>Modern responsive web apps and SaaS platforms</div></div>
-  <div style="background:#fff;padding:16px;border-radius:10px;box-shadow:0 6px 18px rgba(2,6,23,0.04)"><strong>Backend & APIs</strong><div>REST, GraphQL, microservices and auth.</div></div>
+  <div style="background:#fff;pwadding:16px;border-radius:10px;box-shadow:0 6px 18px rgba(2,6,23,0.04)"><strong>Backend & APIs</strong><div>REST, GraphQL, microservices and auth.</div></div>
   <div style="background:#fff;padding:16px;border-radius:10px;box-shadow:0 6px 18px rgba(2,6,23,0.04)"><strong>Mobile Apps</strong><div>Cross-platform mobile apps (React Native, Flutter).</div></div>
   <div style="background:#fff;padding:16px;border-radius:10px;box-shadow:0 6px 18px rgba(2,6,23,0.04)"><strong>Automation</strong><div>GitHub Actions, CI workflows, and scripts.</div></div>
   <div style="background:#fff;padding:16px;border-radius:10px;box-shadow:0 6px 18px rgba(2,6,23,0.04)"><strong>UI Components</strong><div>Reusable UI libraries and design systems.</div></div>
